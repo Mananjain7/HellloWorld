@@ -1,2 +1,1 @@
-# HellloWorld
-This is a HELLO WORLD repository
+print("Hello World")
